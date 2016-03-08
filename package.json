@@ -1,14 +1,14 @@
 {
-  "name": "gulp-subtree",
+  "name": "gulp-subtree-only",
   "version": "0.1.0",
-  "description": "Gulp module to push a folder to a subtree",
+  "description": "Gulp module to push a folder in a repo to a subtree",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Snugug/gulp-subtree.git"
+    "url": "git://github.com/aireater/gulp-subtree-only.git"
   },
   "keywords": [
     "gulp",
@@ -19,17 +19,17 @@
     "deploy"
   ],
   "author": {
-    "name": "Sam Richard",
-    "url": "https://snugug.com"
+    "name": "aireater",
+    "url": "https://github.com/aireater/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Snugug/gulp-subtree/issues"
+    "url": "https://github.com/aireater/gulp-subtree-only/issues"
   },
   "engines": {
     "node": ">=0.9"
   },
-  "homepage": "https://github.com/Snugug/gulp-subtree",
+  "homepage": "https://github.com/aireater/gulp-subtree-only",
   "dependencies": {
     "chalk": "^0.4.0",
     "event-stream": "^3.1.2",

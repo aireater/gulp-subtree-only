@@ -1,6 +1,6 @@
 {
   "name": "gulp-subtree-only",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp module to push a folder in a repo to a subtree",
   "main": "index.js",
   "scripts": {

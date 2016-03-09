@@ -10,7 +10,7 @@ A little gulp module to let you push a folder to a git subtree without keeping t
 ## Usage
 
 ```js
-var subtree = require('gulp-subtree');
+var subtree = require('gulp-subtree-only');
 
 gulp.task('subtree', function () {
   return gulp.src('dist')
@@ -23,7 +23,7 @@ gulp.task('subtree', function () {
 Options can be passed into subtree to choose the remote, branch, and message to push with. By default, it's `origin`, `gh-pages`, and `'Distribution Commit'`.
 
 ```js
-var subtree = require('gulp-subtree');
+var subtree = require('gulp-subtree-only');
 
 gulp.task('subtree', function () {
   return gulp.src('dist')

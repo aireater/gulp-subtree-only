@@ -1,7 +1,7 @@
 Gulp Subtree Only
 ============
 
-A little gulp module to let you push a folder to a git subtree without keeping that folder in your git history. This version differs from Snugug's original (thanks!). It only executes the git subtree command. Your distribution folder will need to be in the repository.
+A little gulp module to let you push a folder to a git subtree. This version differs from Snugug's original (thanks!). It only executes the git subtree command. Your distribution folder will need to be in the repository.
 
 ## Requirements
 
